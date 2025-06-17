@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **adityasinha513@gmail.com**
 
-- 📄 Know about my experiences: [View Resume (PDF)](https://github.com/adityasinha513/Certificates/blob/main/Adiya_Sinha_Resume.pdf)
+- 📄 Know about my experiences: [View Resume (PDF)](https://github.com/adityasinha513/Certificates/blob/main/Aditya_Sinha_Resume.pdf)
 
 - ⚡ Fun fact: **I Google error messages faster than I write code. 🔍**
 
